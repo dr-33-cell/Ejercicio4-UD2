@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\User\Desktop\GRADO\DAM\1_Curso\Entornos\Ejercicio local4 UD2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2544184451.index
+230301514.index
